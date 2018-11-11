@@ -1,0 +1,7 @@
+D:\source\Csharp\ConsoleAppHomeWork\ConsoleAppHomeWork\bin\Debug\ConsoleAppHomeWork.exe.config
+D:\source\Csharp\ConsoleAppHomeWork\ConsoleAppHomeWork\bin\Debug\ConsoleAppHomeWork.exe
+D:\source\Csharp\ConsoleAppHomeWork\ConsoleAppHomeWork\bin\Debug\ConsoleAppHomeWork.pdb
+D:\source\Csharp\ConsoleAppHomeWork\ConsoleAppHomeWork\obj\Debug\ConsoleAppHomeWork.csproj.CoreCompileInputs.cache
+D:\source\Csharp\ConsoleAppHomeWork\ConsoleAppHomeWork\obj\Debug\ConsoleAppHomeWork.exe
+D:\source\Csharp\ConsoleAppHomeWork\ConsoleAppHomeWork\obj\Debug\ConsoleAppHomeWork.pdb
+D:\source\Csharp\ConsoleAppHomeWork\ConsoleAppHomeWork\obj\Debug\ConsoleAppHomeWork.csprojResolveAssemblyReference.cache
