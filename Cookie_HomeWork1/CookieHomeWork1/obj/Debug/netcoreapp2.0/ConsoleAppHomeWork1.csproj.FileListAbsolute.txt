@@ -1,0 +1,11 @@
+D:\source\Csharp\ConsoleAppHomeWork1\ConsoleAppHomeWork1\bin\Debug\netcoreapp2.0\ConsoleAppHomeWork1.deps.json
+D:\source\Csharp\ConsoleAppHomeWork1\ConsoleAppHomeWork1\bin\Debug\netcoreapp2.0\ConsoleAppHomeWork1.runtimeconfig.json
+D:\source\Csharp\ConsoleAppHomeWork1\ConsoleAppHomeWork1\bin\Debug\netcoreapp2.0\ConsoleAppHomeWork1.runtimeconfig.dev.json
+D:\source\Csharp\ConsoleAppHomeWork1\ConsoleAppHomeWork1\bin\Debug\netcoreapp2.0\ConsoleAppHomeWork1.dll
+D:\source\Csharp\ConsoleAppHomeWork1\ConsoleAppHomeWork1\bin\Debug\netcoreapp2.0\ConsoleAppHomeWork1.pdb
+D:\source\Csharp\ConsoleAppHomeWork1\ConsoleAppHomeWork1\obj\Debug\netcoreapp2.0\ConsoleAppHomeWork1.csprojResolveAssemblyReference.cache
+D:\source\Csharp\ConsoleAppHomeWork1\ConsoleAppHomeWork1\obj\Debug\netcoreapp2.0\ConsoleAppHomeWork1.csproj.CoreCompileInputs.cache
+D:\source\Csharp\ConsoleAppHomeWork1\ConsoleAppHomeWork1\obj\Debug\netcoreapp2.0\ConsoleAppHomeWork1.AssemblyInfoInputs.cache
+D:\source\Csharp\ConsoleAppHomeWork1\ConsoleAppHomeWork1\obj\Debug\netcoreapp2.0\ConsoleAppHomeWork1.AssemblyInfo.cs
+D:\source\Csharp\ConsoleAppHomeWork1\ConsoleAppHomeWork1\obj\Debug\netcoreapp2.0\ConsoleAppHomeWork1.dll
+D:\source\Csharp\ConsoleAppHomeWork1\ConsoleAppHomeWork1\obj\Debug\netcoreapp2.0\ConsoleAppHomeWork1.pdb
