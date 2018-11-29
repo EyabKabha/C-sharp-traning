@@ -1,0 +1,7 @@
+D:\source\Csharp\ConsoleAppOOP\ConsoleAppOOP\bin\Debug\ConsoleAppOOP.exe.config
+D:\source\Csharp\ConsoleAppOOP\ConsoleAppOOP\bin\Debug\ConsoleAppOOP.exe
+D:\source\Csharp\ConsoleAppOOP\ConsoleAppOOP\bin\Debug\ConsoleAppOOP.pdb
+D:\source\Csharp\ConsoleAppOOP\ConsoleAppOOP\obj\Debug\ConsoleAppOOP.csprojResolveAssemblyReference.cache
+D:\source\Csharp\ConsoleAppOOP\ConsoleAppOOP\obj\Debug\ConsoleAppOOP.csproj.CoreCompileInputs.cache
+D:\source\Csharp\ConsoleAppOOP\ConsoleAppOOP\obj\Debug\ConsoleAppOOP.exe
+D:\source\Csharp\ConsoleAppOOP\ConsoleAppOOP\obj\Debug\ConsoleAppOOP.pdb
