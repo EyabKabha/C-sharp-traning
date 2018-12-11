@@ -1,0 +1,7 @@
+C:\Users\eyab\source\repos\PracticeApp_Book\PracticeApp_Book\bin\Debug\PracticeApp_Book.exe.config
+C:\Users\eyab\source\repos\PracticeApp_Book\PracticeApp_Book\bin\Debug\PracticeApp_Book.exe
+C:\Users\eyab\source\repos\PracticeApp_Book\PracticeApp_Book\bin\Debug\PracticeApp_Book.pdb
+C:\Users\eyab\source\repos\PracticeApp_Book\PracticeApp_Book\obj\Debug\PracticeApp_Book.csproj.CoreCompileInputs.cache
+C:\Users\eyab\source\repos\PracticeApp_Book\PracticeApp_Book\obj\Debug\PracticeApp_Book.exe
+C:\Users\eyab\source\repos\PracticeApp_Book\PracticeApp_Book\obj\Debug\PracticeApp_Book.pdb
+C:\Users\eyab\source\repos\PracticeApp_Book\PracticeApp_Book\obj\Debug\PracticeApp_Book.csprojResolveAssemblyReference.cache
