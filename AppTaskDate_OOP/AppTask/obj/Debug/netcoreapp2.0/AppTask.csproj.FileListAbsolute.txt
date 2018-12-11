@@ -1,0 +1,11 @@
+C:\Users\eyab\source\repos\AppTask\AppTask\bin\Debug\netcoreapp2.0\AppTask.deps.json
+C:\Users\eyab\source\repos\AppTask\AppTask\bin\Debug\netcoreapp2.0\AppTask.runtimeconfig.json
+C:\Users\eyab\source\repos\AppTask\AppTask\bin\Debug\netcoreapp2.0\AppTask.runtimeconfig.dev.json
+C:\Users\eyab\source\repos\AppTask\AppTask\bin\Debug\netcoreapp2.0\AppTask.dll
+C:\Users\eyab\source\repos\AppTask\AppTask\bin\Debug\netcoreapp2.0\AppTask.pdb
+C:\Users\eyab\source\repos\AppTask\AppTask\obj\Debug\netcoreapp2.0\AppTask.csprojResolveAssemblyReference.cache
+C:\Users\eyab\source\repos\AppTask\AppTask\obj\Debug\netcoreapp2.0\AppTask.csproj.CoreCompileInputs.cache
+C:\Users\eyab\source\repos\AppTask\AppTask\obj\Debug\netcoreapp2.0\AppTask.AssemblyInfoInputs.cache
+C:\Users\eyab\source\repos\AppTask\AppTask\obj\Debug\netcoreapp2.0\AppTask.AssemblyInfo.cs
+C:\Users\eyab\source\repos\AppTask\AppTask\obj\Debug\netcoreapp2.0\AppTask.dll
+C:\Users\eyab\source\repos\AppTask\AppTask\obj\Debug\netcoreapp2.0\AppTask.pdb
