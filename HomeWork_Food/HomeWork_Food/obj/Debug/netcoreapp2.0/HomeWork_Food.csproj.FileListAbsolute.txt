@@ -1,0 +1,11 @@
+C:\Users\eyab\source\repos\HomeWork_Food\HomeWork_Food\bin\Debug\netcoreapp2.0\HomeWork_Food.deps.json
+C:\Users\eyab\source\repos\HomeWork_Food\HomeWork_Food\bin\Debug\netcoreapp2.0\HomeWork_Food.runtimeconfig.json
+C:\Users\eyab\source\repos\HomeWork_Food\HomeWork_Food\bin\Debug\netcoreapp2.0\HomeWork_Food.runtimeconfig.dev.json
+C:\Users\eyab\source\repos\HomeWork_Food\HomeWork_Food\bin\Debug\netcoreapp2.0\HomeWork_Food.dll
+C:\Users\eyab\source\repos\HomeWork_Food\HomeWork_Food\bin\Debug\netcoreapp2.0\HomeWork_Food.pdb
+C:\Users\eyab\source\repos\HomeWork_Food\HomeWork_Food\obj\Debug\netcoreapp2.0\HomeWork_Food.csprojResolveAssemblyReference.cache
+C:\Users\eyab\source\repos\HomeWork_Food\HomeWork_Food\obj\Debug\netcoreapp2.0\HomeWork_Food.csproj.CoreCompileInputs.cache
+C:\Users\eyab\source\repos\HomeWork_Food\HomeWork_Food\obj\Debug\netcoreapp2.0\HomeWork_Food.AssemblyInfoInputs.cache
+C:\Users\eyab\source\repos\HomeWork_Food\HomeWork_Food\obj\Debug\netcoreapp2.0\HomeWork_Food.AssemblyInfo.cs
+C:\Users\eyab\source\repos\HomeWork_Food\HomeWork_Food\obj\Debug\netcoreapp2.0\HomeWork_Food.dll
+C:\Users\eyab\source\repos\HomeWork_Food\HomeWork_Food\obj\Debug\netcoreapp2.0\HomeWork_Food.pdb
