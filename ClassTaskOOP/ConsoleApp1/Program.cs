@@ -1,49 +1,36 @@
-﻿using System;
+using System;
 
-namespace _02_class_task_result
+namespace inheritance
 {
     class Program
     {
         static void Main(string[] args)
         {
+            Food[] foodArray = new Food[6];
+            foodArray[0] = new Pizza(80, false, 4, 2);
+            foodArray[1] = new Pizza(40, false, 4, 2);
+            foodArray[2] = new Pizza(30, true, 4, 2);
+            foodArray[3] = new Chips(true, true, 158, false);
+            foodArray[4] = new Chips(true, true, 18, false);
+            foodArray[5] = new Chips(true, true, 20, true);
 
-            int numOfRows;
-
-
-            //הלולאה הזו תרוץ לפחות פעם אחת
-            //אם נקלט מספר שקטן משלוש או גדול מתשע היא תרוץ שוב
-            do
+            for (int i = 0; i < foodArray.Length; i++)
             {
-                Console.WriteLine("Please enter a number (between 3-9): ");
-                numOfRows = Convert.ToInt32(Console.ReadLine());
-            } while (numOfRows < 3 || numOfRows > 9);
+                Console.WriteLine("===================");
+                Console.WriteLine("is veg ? " + foodArray[i].IsVeg);
+                Console.WriteLine($"The Price is : " + foodArray[i].Price);
+                Console.WriteLine("===================");
 
-
-            //יצירת מטריצה מאותחלת עם מספר שורות לפי הקלט מהלקוח
-            //null בשלב זה כל תא במטריצה מכיל 
-            int[][] matrix = new int[numOfRows][];
-
-
-            //לולאה שרצה על כל שורה במטריצה
-            for (int row = 0; row < matrix.Length; row++)
-            {
-                //null בשלב זה כל תא במטריצה מכיל 
-                //נאתחל כעת את התא במצביע למערך בעל אורך הגדול ב1 האינדקס התא
-                matrix[row] = new int[row + 1];
-
-
-                // נאתחל כל תא בשורה של המטריצה עם מספר - המספר יהיה אינדקס השורה + 1
-                for (int col = 0; col < matrix[row].Length; matrix[row][col++] = row + 1) ;
-            }
-
-
-            foreach (int[] matrixItem in matrix)
-            {
-                foreach (int arrItem in matrixItem)
-                {
-                    Console.Write(arrItem);
+                if (foodArray[i] is Chips){
+                    Console.WriteLine($"=== Item {i+1} ===");
+                    Console.WriteLine($"have dipps? " + ((Chips)foodArray[i]).IsWithDipps);
+                    Console.WriteLine($"is Extra Big?? " + ((Chips)foodArray[i]).IsExtaBig);
+                
+                }else{
+                    Console.WriteLine($"=== Item {i + 1} ===");
+                    Console.WriteLine($"num of slices : " + ((Pizza)foodArray[i]).NumOfSlices);
+                    Console.WriteLine($"num of toppings: " + ((Pizza)foodArray[i]).NumOftoppings);
                 }
-                Console.WriteLine();
             }
         }
     }
