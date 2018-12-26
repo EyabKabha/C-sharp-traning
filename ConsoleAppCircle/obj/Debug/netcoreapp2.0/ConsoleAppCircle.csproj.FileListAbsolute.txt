@@ -1,0 +1,11 @@
+C:\Users\eyab\source\repos\ConsoleAppCircle\ConsoleAppCircle\bin\Debug\netcoreapp2.0\ConsoleAppCircle.deps.json
+C:\Users\eyab\source\repos\ConsoleAppCircle\ConsoleAppCircle\bin\Debug\netcoreapp2.0\ConsoleAppCircle.runtimeconfig.json
+C:\Users\eyab\source\repos\ConsoleAppCircle\ConsoleAppCircle\bin\Debug\netcoreapp2.0\ConsoleAppCircle.runtimeconfig.dev.json
+C:\Users\eyab\source\repos\ConsoleAppCircle\ConsoleAppCircle\bin\Debug\netcoreapp2.0\ConsoleAppCircle.dll
+C:\Users\eyab\source\repos\ConsoleAppCircle\ConsoleAppCircle\bin\Debug\netcoreapp2.0\ConsoleAppCircle.pdb
+C:\Users\eyab\source\repos\ConsoleAppCircle\ConsoleAppCircle\obj\Debug\netcoreapp2.0\ConsoleAppCircle.csprojResolveAssemblyReference.cache
+C:\Users\eyab\source\repos\ConsoleAppCircle\ConsoleAppCircle\obj\Debug\netcoreapp2.0\ConsoleAppCircle.csproj.CoreCompileInputs.cache
+C:\Users\eyab\source\repos\ConsoleAppCircle\ConsoleAppCircle\obj\Debug\netcoreapp2.0\ConsoleAppCircle.AssemblyInfoInputs.cache
+C:\Users\eyab\source\repos\ConsoleAppCircle\ConsoleAppCircle\obj\Debug\netcoreapp2.0\ConsoleAppCircle.AssemblyInfo.cs
+C:\Users\eyab\source\repos\ConsoleAppCircle\ConsoleAppCircle\obj\Debug\netcoreapp2.0\ConsoleAppCircle.dll
+C:\Users\eyab\source\repos\ConsoleAppCircle\ConsoleAppCircle\obj\Debug\netcoreapp2.0\ConsoleAppCircle.pdb
